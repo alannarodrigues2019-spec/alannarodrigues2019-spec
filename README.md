@@ -1,13 +1,6 @@
 
-Claro 😭❤️ Agora vou fazer de novo com o username CORRETO.
 
-O seu username é:
-
-alannarodrigues2019-spec
-
-Então todos os lugares do README vão usar exatamente esse nome. Você pode apagar o README antigo e colar este inteiro no lugar.
-
-<!-- =========================================================
+=================================
      README.md — PERFIL GITHUB
      USERNAME: alannarodrigues2019-spec
      ========================================================= -->
