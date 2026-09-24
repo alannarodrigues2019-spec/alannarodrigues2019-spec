@@ -1,10 +1,5 @@
 
 
-=================================
-     README.md — PERFIL GITHUB
-     USERNAME: alannarodrigues2019-spec
-     ========================================================= -->
-
 <div align="center">
 
 <img
