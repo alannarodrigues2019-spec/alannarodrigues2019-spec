@@ -8,10 +8,9 @@
   alt="System Online"
 />
 
-<br>
 
 <h1>
-  <code>ALANNA RODRIGUES PIRES</code>
+  ALANNA RODRIGUES PIRES
 </h1>
 
 <img
