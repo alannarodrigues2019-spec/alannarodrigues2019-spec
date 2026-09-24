@@ -45,7 +45,7 @@
 
 ---
 
-# `02 // SOBRE MIM`
+# `02 OBRE MIM`
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Atualmente, meu foco é continuar evoluindo na programação, desenvolver novos 
 
 ---
 
-# `03 // TECH STACK`
+# `03  TECH STACK`
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Atualmente, meu foco é continuar evoluindo na programação, desenvolver novos 
 
 ---
 
-# `04 // DEVELOPMENT TOOLS`
+# `04  DEVELOPMENT TOOLS`
 
 <div align="center">
 
@@ -119,7 +119,7 @@ Atualmente, meu foco é continuar evoluindo na programação, desenvolver novos 
 
 ---
 
-# `05 // PROJECT DATABASE`
+# `05  PROJECT DATABASE`
 
 <div align="center">
 
