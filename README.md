@@ -30,7 +30,7 @@
 
 ---
 
-# `01 // SYSTEM INTERFACE`
+# `01  SYSTEM INTERFACE`
 
 <div align="center">
 
